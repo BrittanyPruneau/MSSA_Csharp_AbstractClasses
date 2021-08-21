@@ -1,0 +1,1 @@
+# MSSA_Csharp_AbstractClasses
